@@ -1,0 +1,11 @@
+{
+  "billing_project_id": "dcce-carbon",
+  "source_project_id": "bigquery-public-data",
+  "dataset": "ghcn_d",
+  "observations_table": "ghcnd_2026",
+  "stations_table": "ghcnd_stations",
+  "country_code": "TH",
+  "year": 2026,
+  "credentials_path": null,
+  "output_dir": "outputs"
+}
