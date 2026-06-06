@@ -1,5 +1,5 @@
 {
-  "billing_project_id": "dcce-carbon",
+  "billing_project_id": "project-183fe1c7-ddb0-4eea-8c2",
   "source_project_id": "bigquery-public-data",
   "dataset": "ghcn_d",
   "observations_table": "ghcnd_2026",
